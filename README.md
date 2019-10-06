@@ -3,11 +3,7 @@ Custom Arch Linux ISO for maintenance
 
 ### Prerequisites
 
-A work archlinux enviroment, it work chrooting with [arch-bootstrap](https://github.com/tokland/arch-bootstrap)
-
-```
-Give examples
-```
+A work archlinux enviroment, it work chrooting with [arch-bootstrap](https://github.com/tokland/arch-bootstrap).
 
 ### Installing
 
